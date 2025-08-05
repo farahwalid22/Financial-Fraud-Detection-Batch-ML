@@ -100,12 +100,6 @@ Check for unauthorized activity after every transaction.
 
 ---
 
-## 📁 Project Structure
-
-financial-fraud-detection-batch-ml/
-│
-├── requirements.txt # Required Python packages
-└── README.md # Project documentation
 
 ## 💡 Tech Stack
 
