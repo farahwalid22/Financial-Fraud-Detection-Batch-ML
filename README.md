@@ -104,7 +104,6 @@ Check for unauthorized activity after every transaction.
 
 financial-fraud-detection-batch-ml/
 │
-├── notebook.ipynb # Full EDA + model training
 ├── requirements.txt # Required Python packages
 └── README.md # Project documentation
 
